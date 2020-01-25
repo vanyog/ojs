@@ -86,10 +86,9 @@ class SubscriptionPolicyForm extends Form {
 	}
 
 	/**
-	 * Fetch the form.
-	 * @param $request PKPRequest
+	 * @copydoc Form::fetch()
 	 */
-	public function fetch($request) {
+	public function fetch($request, $template = null, $display = false) {
 		$paymentManager = Application::getPaymentManager($request->getJournal());
 		$templateMgr = TemplateManager::getManager();
 		$templateMgr->assign(array(
@@ -101,7 +100,7 @@ class SubscriptionPolicyForm extends Form {
 			'paymentsEnabled' => $paymentManager->isConfigured(),
 		));
 
-		return parent::fetch($request);
+		return parent::fetch($request, $template, $display);
 	}
 
 	/**
@@ -150,9 +149,9 @@ class SubscriptionPolicyForm extends Form {
 	}
 
 	/**
-	 * Save subscription policies.
+	 * @copydoc Form::execute
 	 */
-	public function execute() {
+	public function execute(...$functionArgs) {
 		$request = Application::get()->getRequest();
 		$journal = $request->getJournal();
 
@@ -172,7 +171,9 @@ class SubscriptionPolicyForm extends Form {
 		$journal->setData('numMonthsAfterSubscriptionExpiryReminder', $this->getData('numMonthsAfterSubscriptionExpiryReminder'));
 		$journal->setData('numWeeksAfterSubscriptionExpiryReminder', $this->getData('numWeeksAfterSubscriptionExpiryReminder'));
 
-		$journalDao = DAORegistry::getDAO('JournalDAO');
+		parent::execute(...$functionArgs);
+
+		$journalDao = DAORegistry::getDAO('JournalDAO'); /* @var $journalDao JournalDAO */
 		$journalDao->updateObject($journal);
 	}
 }
