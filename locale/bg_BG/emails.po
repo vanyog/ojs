@@ -969,7 +969,7 @@ msgid "emails.subscriptionRenewInstl.description"
 msgstr "This email notifies the Subscription Manager that an institutional subscription has been renewed online. It provides summary information about the subscription and a quick access link to the renewed subscription."
 
 msgid "emails.citationEditorAuthorQuery.subject"
-msgstr "Citation Editing"
+msgstr "Редактиране на цитати"
 
 msgid "emails.citationEditorAuthorQuery.body"
 msgstr ""
@@ -986,7 +986,7 @@ msgstr ""
 ""
 
 msgid "emails.citationEditorAuthorQuery.description"
-msgstr "This email allows copyeditors to request additional information about references from authors."
+msgstr "Този имейл позволява на редакторите да поискат допълнителна информация от авторите за позоваванията."
 
 msgid "emails.revisedVersionNotify.subject"
 msgstr "Revised Version Uploaded"

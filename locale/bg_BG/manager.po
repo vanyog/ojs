@@ -12,37 +12,37 @@ msgstr ""
 "Language: \n"
 
 msgid "manager.distribution.access"
-msgstr "Access"
+msgstr "Достъп"
 
 msgid "manager.distribution.copyrightYearBasis.description"
-msgstr "Choose how a default copyright date is selected for an article. This default can be overridden on a case-by-case basis. If you \"publish as you go\", don't use the issue's publication date."
+msgstr "Изберете как се определя годината на авторските права на статия. Тази година може да се отмени според случая. Ако вие публикувате \"в движение\", не избирайта дата на издаване на броя."
 
 msgid "manager.distribution.copyrightYearBasis.issue"
-msgstr "Use the issue's publication date"
+msgstr "Използване на датата на издаване на броя"
 
 msgid "manager.distribution.copyrightYearBasis.submission"
-msgstr "Use the article's publication date"
+msgstr "Използване датата на публикуване на статията"
 
 msgid "manager.distribution.publication"
 msgstr "Publication"
 
 msgid "manager.distribution.publishingMode"
-msgstr "Publishing Mode"
+msgstr "Начин на публикуване"
 
 msgid "manager.distribution.publishingMode.none"
-msgstr "OJS will not be used to publish the journal's contents online."
+msgstr "OJS няма да се използва за публикуване на съдържание онлайн."
 
 msgid "manager.distribution.publishingMode.openAccess"
-msgstr "The journal will provide open access to its contents."
+msgstr "Списанието ще предложи отворен достъп до своето съдържание."
 
 msgid "manager.distribution.publishingMode.subscription"
-msgstr "The journal will require subscriptions to access some or all of its contents."
+msgstr "Списанието ще изисква абониране за достъп до част или до цялото си съдържание."
 
 msgid "manager.distribution.publishingMode.success"
 msgstr "The publishing details have been updated."
 
 msgid "manager.website.archiving"
-msgstr "Archiving"
+msgstr "Архивиране"
 
 msgid "manager.emails.confirmResetAll"
 msgstr "Are you sure you want to reset all email templates in this journal? You will lose any customizations you have made."
@@ -105,7 +105,7 @@ msgid "manager.payment.editSubscription"
 msgstr "Edit Subscription"
 
 msgid "manager.payment.enable"
-msgstr "Enable"
+msgstr "Активиране"
 
 msgid "manager.payment.feePaymentOptions"
 msgstr "Fee Payment Options"
@@ -138,10 +138,10 @@ msgid "subscriptionManager.subscription.confirmRemove"
 msgstr "Are you sure you wish to delete this subscription?"
 
 msgid "manager.payment.success"
-msgstr "The payment settings have been updated."
+msgstr "Настройките за плащания бяха актуализирани."
 
 msgid "manager.payment.options.enablePayments"
-msgstr "Payments will be enabled for this journal. Note that users will be required to log in to make payments."
+msgstr "За това списание ще бъдат активирани плащания. Забележете, че потребителите ще трябва да влизат в сайта, за да правят плащания."
 
 msgid "manager.payment.options.fee"
 msgstr "Fee"
@@ -243,7 +243,7 @@ msgid "manager.sections.abstractsNotRequired"
 msgstr "Не се изискват резюмета"
 
 msgid "manager.section.noSectionEditors"
-msgstr "Още няма редактори на разделите. Първо задайте тази роля поне на един потребител през Управление > Настройки > Users &amp; Roles."
+msgstr "Още няма редактори на разделите. Първо задайте тази роля поне на един потребител през Управление > Настройки > Потребители и роли."
 
 msgid "manager.sections.assigned"
 msgstr "This Section's Editors"
@@ -381,7 +381,7 @@ msgid "manager.setup.alternateHeaderDescription"
 msgstr "Alternately, instead of title and logo, an HTML version of the header can be inserted into the text box below. Leave textbox blank if not required."
 
 msgid "manager.setup.announcements"
-msgstr "Announcements"
+msgstr "Обявления"
 
 msgid "manager.setup.announcements.success"
 msgstr "The announcements settings have been updated."
@@ -426,7 +426,7 @@ msgid "manager.setup.details.description"
 msgstr "Name of journal, ISSN, contacts, sponsors, and search engines."
 
 msgid "manager.setup.disableUserRegistration"
-msgstr "The Journal Manager will register all user accounts. Editors or Section Editors may register user accounts for reviewers."
+msgstr "Мениджърът на списанието ще регистрира всички профили на потребители. Редакторите или редакторите на раздели могат да регистрират профили на потребители за рецензенти."
 
 msgid "manager.setup.discipline"
 msgstr "Academic Discipline and Sub-Disciplines"
@@ -447,28 +447,28 @@ msgid "manager.setup.editorDecision"
 msgstr "Editor Decision"
 
 msgid "manager.setup.emailBounceAddress"
-msgstr "Bounce Address"
+msgstr "Адрес отхвърлени"
 
 msgid "manager.setup.emailBounceAddress.description"
-msgstr "Any undeliverable emails will result in an error message to this address."
+msgstr "Всяко отказано да се изпрати писмо ще предизвика съобщение за грешка към този адрес."
 
 msgid "manager.setup.emailBounceAddress.disabled"
-msgstr "In order to send undeliverable emails to a bounce address, the site administrator must enable the <code>allow_envelope_sender</code> option in the site configuration file. Server configuration may be required, as indicated in the OJS documentation."
+msgstr "За да бъдет препращани към адреса за отхвърлени, имейлите, които не могат да бъват изпратени, администраторът на сайта трябва да активира опцията <code>allow_envelope_sender</code> във файла за конфитуриране на сайта. Може да се изисква и настройване на сървъра, както е посочено в документацията на OJS."
 
 msgid "manager.setup.emails"
 msgstr "Email Identification"
 
 msgid "manager.setup.emailSignature"
-msgstr "Signature"
+msgstr "Подпис"
 
 msgid "manager.setup.emailSignature.description"
 msgstr "The prepared emails that are sent by the system on behalf of the journal will have the following signature added to the end."
 
 msgid "manager.setup.enableAnnouncements.enable"
-msgstr "Enable announcements"
+msgstr "Активиране на обявления"
 
 msgid "manager.setup.enableAnnouncements.description"
-msgstr "Announcements may be published to inform readers of journal news and events. Published announcements will appear on the Announcements page."
+msgstr "Обявленията могат да се публикуват за да информират читателите за новини и събития за списанието. Публикуваните обявления се показват на страница Обявления."
 
 msgid "manager.setup.numAnnouncementsHomepage"
 msgstr "Display on Homepage"
@@ -477,7 +477,7 @@ msgid "manager.setup.numAnnouncementsHomepage.description"
 msgstr "How many announcements to display on the homepage. Leave this empty to display none."
 
 msgid "manager.setup.enableUserRegistration"
-msgstr "Visitors can register a user account with the journal."
+msgstr "Посетителите могат да се регистрират за списанието."
 
 msgid "manager.setup.focusAndScope"
 msgstr "Focus and scope"
@@ -564,10 +564,10 @@ msgid "manager.setup.itemsDescription"
 msgstr "Navigation bar items can be added to the current set (Home, About, User Home, etc.) that appear at the top of the page."
 
 msgid "manager.setup.itemsPerPage"
-msgstr "Items per page"
+msgstr "Елементи на страница"
 
 msgid "manager.setup.itemsPerPage.description"
-msgstr "Limit the number of items (for example, submissions, users, or editing assignments) to show in a list before showing subsequent items in another page."
+msgstr "Ограничаване на броя елементи (например: предложения, потребители, задания за редактиране) които се показват в един списък преди да се мине към следваща страница за преглеждане."
 
 msgid "manager.setup.journalAbbreviation"
 msgstr "Съкращение на списанието"
@@ -657,7 +657,7 @@ msgid "manager.setup.lists.success"
 msgstr "The list settings for this journal have been updated."
 
 msgid "manager.setup.lists"
-msgstr "Lists"
+msgstr "Списъци"
 
 msgid "manager.setup.plnPluginEnable"
 msgstr "Enable the PKP PN plugin"
@@ -756,10 +756,10 @@ msgid "manager.setup.notifications.submissionAckDisabled"
 msgstr "<strong>Note:</strong> The submission acknowledgement email is currently disabled. To use this feature, enable the \"Submission Ack\" email in Emails."
 
 msgid "manager.setup.numPageLinks"
-msgstr "Page links"
+msgstr "Хипервръзки към страници"
 
 msgid "manager.setup.numPageLinks.description"
-msgstr "Limit the number of links to display to subsequent pages in a list."
+msgstr "Ограничаване броя на хипервръзките към следващи страници за преглеждане на дълъг списък."
 
 msgid "manager.setup.onlineIssn"
 msgstr "ISSN за онлайн"
@@ -810,10 +810,10 @@ msgid "manager.setup.referenceLinking"
 msgstr "Reference Linking"
 
 msgid "manager.setup.restrictArticleAccess"
-msgstr "Users must be registered and log in to view open access content."
+msgstr "Потребителите трябва да са регистрирани и влезли за да виждат съдържанието с отворен достъп."
 
 msgid "manager.setup.restrictSiteAccess"
-msgstr "Users must be registered and log in to view the journal site."
+msgstr "Потребителите трябва да са регистрирани и влезли за да виждат сайта на списание."
 
 msgid "manager.setup.reviewGuidelines"
 msgstr "Review Guidelines"
@@ -822,37 +822,37 @@ msgid "manager.setup.reviewOptions"
 msgstr "Review Options"
 
 msgid "manager.setup.reviewOptions.automatedReminders"
-msgstr "Automated Email Reminders"
+msgstr "Автоматични напоняния с имейл"
 
 msgid "manager.setup.reviewOptions.automatedRemindersDisabled"
-msgstr "To send automated email reminders, the site administrator must enable the <tt>scheduled_tasks</tt> option in the OJS configuration file. Additional server configuration may be required as indicated in the OJS documentation."
+msgstr "За да се изпращат автоматично напомняния с имейл сайт администраторът трябва да активира опцията <tt>scheduled_tasks</tt> в конфигурационния файл на OJS. Допълнителни настройки на сървъра може да са необходими, както е описано в документацията на OJS."
 
 msgid "manager.setup.reviewOptions.blindReview"
-msgstr "Blind Review"
+msgstr "Сляпо рецензиране"
 
 msgid "manager.setup.reviewOptions.numWeeksPerReview"
-msgstr "Weeks allowed to complete the review"
+msgstr "Позволен брой седмици за завършване на рецензия"
 
 msgid "manager.setup.reviewOptions.onQuality"
 msgstr "Editors will rate reviewers on a five-point quality scale after each review."
 
 msgid "manager.setup.reviewOptions.restrictReviewerFileAccess"
-msgstr "Restrict File Access"
+msgstr "Ограничен достъп до файлове"
 
 msgid "manager.setup.reviewOptions.restrictReviewerFileAccess.description"
-msgstr "Reviewers will not be given access to the submission file until they have agreed to review it."
+msgstr "Рецензентите на получават достъп до предложените файлове докато не се съгласят да рецензират."
 
 msgid "manager.setup.reviewOptions.reviewerAccess"
 msgstr "Reviewer Access"
 
 msgid "manager.setup.reviewOptions.reviewerAccessKeysEnabled"
-msgstr "One-click Reviewer Access"
+msgstr "Достъп с едно щракване за рецензентите"
 
 msgid "manager.setup.reviewOptions.reviewerAccessKeysEnabled.description"
-msgstr "Reviewers can be sent a secure link in the email invitation, which will allow them to access the review without logging in. Access to other pages requires them to log in."
+msgstr "На рецензентите могат да бъдат изпратени имейли покани, които им позволяват да преглеждат рецензираните работи без да влизат в сайта. За достъп до други страници ще се изисква от тях да влизат."
 
 msgid "manager.setup.reviewOptions.reviewerAccessKeysEnabled.label"
-msgstr "Include a secure link in the email invitation to reviewers."
+msgstr "Включване на защитена хипервръзка в поканите до рецензентите, изпратени с имейл."
 
 msgid "manager.setup.reviewOptions.reviewerRatings"
 msgstr "Reviewer Ratings"
@@ -894,10 +894,10 @@ msgid "manager.setup.showGalleyLinksDescription"
 msgstr "Always show galley links and indicate restricted access."
 
 msgid "manager.setup.siteAccess.view"
-msgstr "Site Access"
+msgstr "Достъп до сайта"
 
 msgid "manager.setup.siteAccess.viewContent"
-msgstr "View Article Content"
+msgstr "Виждане съдържанието на статиите"
 
 msgid "manager.setup.stepsToJournalSite"
 msgstr "Five Steps to a Journal Web Site"
@@ -915,7 +915,7 @@ msgid "manager.setup.submissionGuidelines"
 msgstr "Submission guidelines"
 
 msgid "manager.setup.submissionPreparationChecklist"
-msgstr "Submission Preparation Checklist"
+msgstr "Списък от проверки за подготвяне предложението за статия."
 
 msgid "manager.setup.submissionPreparationChecklistDescription"
 msgstr "On making a submission to the journal, authors are first asked to check each item on the Submission Preparation Checklist as completed, before proceeding. The checklist also appears in the Author Guidelines, under About the Journal. The list can be edited below, but all items on the list will require a checkmark before authors can proceed with their submission."
@@ -927,10 +927,10 @@ msgid "manager.setup.submissions.description"
 msgstr "Author guidelines, copyright, and indexing (including registration)."
 
 msgid "manager.setup.enableOai"
-msgstr "Enable OAI"
+msgstr "Активиране на OAI"
 
 msgid "manager.setup.enableOai.description"
-msgstr "Provide metadata to third-party indexing services through the <a href=\"https://www.openarchives.org/\">Open Archives Initiative</a>."
+msgstr "Доставяне на метаданни за индексиране чрез <a href=\"https://www.openarchives.org/\">Open Archives Initiative</a>."
 
 msgid "manager.setup.typeExamples"
 msgstr "(E.g., Historical Inquiry; Quasi-Experimental; Literary Analysis; Survey/Interview)"
@@ -960,7 +960,7 @@ msgid "manager.setup.useImageTitle"
 msgstr "Title image"
 
 msgid "manager.setup.userRegistration"
-msgstr "User Registration"
+msgstr "Регистриране на потребители"
 
 msgid "manager.setup.useTextTitle"
 msgstr "Title text"
@@ -1214,7 +1214,7 @@ msgid "manager.subscriptions.dateEndSearch"
 msgstr "End Date"
 
 msgid "manager.subscriptions.dateStart"
-msgstr "Start"
+msgstr "Начало"
 
 msgid "manager.subscriptions.dateStartSearch"
 msgstr "Start Date"
@@ -1598,10 +1598,10 @@ msgid "manager.setup.resetPermissions.success"
 msgstr "Article permissions were successfully reset."
 
 msgid "grid.genres.title.short"
-msgstr "Components"
+msgstr "Компоненти"
 
 msgid "grid.genres.title"
-msgstr "Article Components"
+msgstr "Компоненти на статия"
 
 msgid "grid.genres.description"
 msgstr "These components are used for file-naming purposes and are presented in a pull-down menu on uploading files. The genres designated ## allow the user to associate the file with either the whole submission 99Z or a particular component by number (e.g., 02)."

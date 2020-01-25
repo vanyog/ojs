@@ -21,7 +21,7 @@ msgid "submission.submit.userGroupDescription"
 msgstr "Choose the capacity under which you are submitting this article."
 
 msgid "submission.upload.selectComponent"
-msgstr "Select article component"
+msgstr "Изберете компонента на статия"
 
 msgid "submission.title"
 msgstr "Article Title"
@@ -39,13 +39,13 @@ msgid "grid.action.workflow"
 msgstr "Submission Workflow"
 
 msgid "submission.abstract.wordCount.description"
-msgstr "The abstract must be {$wordCount} words or less."
+msgstr "Резюмето трябва да е {$wordCount} или по-малко думи."
 
 msgid "submission.submit.noContext"
 msgstr "This submission's journal could not be found."
 
 msgid "submission.issueEntry"
-msgstr "Metadata"
+msgstr "Метаданни"
 
 msgid "submission.submit.whatNext.description"
 msgstr "The journal has been notified of your submission, and you've been emailed a confirmation for your records.  Once the editor has reviewed the submission, they will contact you."
@@ -102,7 +102,7 @@ msgid "submission.confirmSubmit"
 msgstr "Are you sure you wish to submit this article to the journal?"
 
 msgid "workflow.review.externalReview"
-msgstr "Review"
+msgstr "Рецензиране"
 
 msgid "editor.submission.decision.sendExternalReview"
 msgstr "Send to Review"
@@ -111,7 +111,7 @@ msgid "submission.event.issueMetadataUpdated"
 msgstr "The submission's issue metadata was updated."
 
 msgid "submission.upload.fileContents"
-msgstr "Article Component"
+msgstr "Компонента на статия"
 
 msgid "submission.complete"
 msgstr "Approved"

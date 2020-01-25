@@ -12,28 +12,28 @@ msgstr ""
 "Language: \n"
 
 msgid "plugins.paymethod.manual.displayName"
-msgstr "Manual Fee Payment"
+msgstr "Ръчни плащания"
 
 msgid "plugins.paymethod.manual.description"
-msgstr "The manager will manually record receipt of a user's payment (outside of this software)."
+msgstr "Мениджърът ръчно ще обработва плащанията на потребителите (извън този софтуер)."
 
 msgid "plugins.paymethod.manual"
-msgstr "Manual Fee Payment"
+msgstr "Ръчни плащания"
 
 msgid "plugins.paymethod.manual.settings"
-msgstr "Manual Payment Instructions"
+msgstr "Инструкции за ръчни плащания"
 
 msgid "plugins.paymethod.manual.sendNotificationOfPayment"
-msgstr "Send notification of payment"
+msgstr "Изпращане на уведомление за плащане"
 
 msgid "plugins.paymethod.manual.paymentNotification"
-msgstr "Payment Notification"
+msgstr "Уведомление за плащане"
 
 msgid "plugins.paymethod.manual.notificationSent"
-msgstr "Payment notification sent"
+msgstr "Уведомление за плащането е изпратено"
 
 msgid "plugins.paymethod.manual.purchase.title"
-msgstr "Title"
+msgstr "Заглавие"
 
 msgid "plugins.paymethod.manual.purchase.fee"
-msgstr "Fee"
+msgstr "Такса"

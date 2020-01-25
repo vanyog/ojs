@@ -51,10 +51,10 @@ msgid "author.submit.step5"
 msgstr "Step 5. Confirming the Submission"
 
 msgid "author.submit.start"
-msgstr "Start"
+msgstr "Начало"
 
 msgid "author.submit.upload"
-msgstr "Upload Submission"
+msgstr "Качване на предложение"
 
 msgid "author.submit.metadata"
 msgstr "Enter Metadata"

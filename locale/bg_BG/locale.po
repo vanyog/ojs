@@ -156,43 +156,43 @@ msgid "article.title"
 msgstr "Заглавие"
 
 msgid "article.authors"
-msgstr "Authors"
+msgstr "Автори"
 
 msgid "article.indexingInformation"
-msgstr "Indexing Information"
+msgstr "Информация за индексиране"
 
 msgid "article.metadata"
-msgstr "Metadata"
+msgstr "Метаданни"
 
 msgid "article.journalSection"
-msgstr "Journal Section"
+msgstr "Раздел на списанието"
 
 msgid "article.file"
-msgstr "File"
+msgstr "Файл"
 
 msgid "article.suppFile"
-msgstr "Supplementary File"
+msgstr "Допълнителен файл"
 
 msgid "article.suppFiles"
-msgstr "Supplementary File(s)"
+msgstr "Допълнителни файл(ове)"
 
 msgid "article.suppFilesAbbrev"
-msgstr "Supp. files"
+msgstr "Доп. файлове"
 
 msgid "article.discipline"
 msgstr "Academic discipline and sub-disciplines"
 
 msgid "article.subject"
-msgstr "Keywords"
+msgstr "Ключови думи"
 
 msgid "article.coverage"
-msgstr "Coverage"
+msgstr "Покритие"
 
 msgid "article.type"
 msgstr "Type, method or approach"
 
 msgid "article.language"
-msgstr "Language"
+msgstr "Език"
 
 msgid "article.sectionEditor"
 msgstr "SE"
@@ -228,7 +228,7 @@ msgid "article.comments.disable"
 msgstr "Disable"
 
 msgid "article.comments.enable"
-msgstr "Enable"
+msgstr "Активиране"
 
 msgid "article.fontSize"
 msgstr "Font Size"
@@ -288,7 +288,7 @@ msgid "submission.authorVersion"
 msgstr "Author Version"
 
 msgid "submission.copyediting"
-msgstr "Copyediting"
+msgstr "Редактиране на копие"
 
 msgid "submission.copyedit"
 msgstr "Copyedit"
@@ -471,10 +471,10 @@ msgid "issue.number"
 msgstr "Брой"
 
 msgid "issue.vol"
-msgstr "Vol."
+msgstr "Том"
 
 msgid "issue.no"
-msgstr "No."
+msgstr "№"
 
 msgid "issue.year"
 msgstr "Година"
@@ -483,10 +483,10 @@ msgid "issue.noIssues"
 msgstr "No Issues"
 
 msgid "issue.toc"
-msgstr "Table of Contents"
+msgstr "Съдържание"
 
 msgid "issue.abstract"
-msgstr "Abstract"
+msgstr "Резюме"
 
 msgid "issue.coverPage.altText"
 msgstr "Cover Page"
@@ -1122,10 +1122,10 @@ msgid "submission.layout.noLayoutFile"
 msgstr "None (Upload final copyedit version as Layout Version prior to sending request)"
 
 msgid "submission.layout.publicGalleyId"
-msgstr "Public Galley Identifier"
+msgstr "Публичен идентификатор на галерията"
 
 msgid "submission.layout.galleyPublicIdentificationExists"
-msgstr "Public galley identification already exists."
+msgstr "Публичния идентификатор на галерията вече съществува."
 
 msgid "submission.layout.assignLayoutEditor"
 msgstr "Assign Layout Editor"
@@ -1161,7 +1161,7 @@ msgid "submission.logType.editor"
 msgstr "Editor"
 
 msgid "submission.logType.review"
-msgstr "Review"
+msgstr "Рецензиране"
 
 msgid "submission.logType.copyedit"
 msgstr "Copyedit"
@@ -1539,7 +1539,7 @@ msgid "about.delayedOpenAccessDescription2"
 msgstr "month(s) after an issue is published."
 
 msgid "about.archiving"
-msgstr "Archiving"
+msgstr "Архивиране"
 
 msgid "about.subscriptions"
 msgstr "Subscriptions"
